@@ -3,9 +3,15 @@ QT Learning TODO list :
 [DONE]Understanding widgets creation and instantiation
 [DONE]Understanding widgets organization (Layouts)
 [DONE]Understanding Heritage in QT
-Signal and slot programming (graphic, QT designer)
-Better understanding heritage in QT, creation of personal object
-Signal and slot programming (graphic & coded, QT creator)
-Manipulating Basic datas with QT types
+[DONE]Signal and slot programming (graphic, QT designer)
+[DONE]Better understanding heritage in QT, creation of personal object
+[DONE]Signal and slot programming (graphic & coded, QT creator)
+[DONE]QT ui files code integration (automatic connections)
+QT ui files code integration (manual connections)
+[DONE]QT ui files code integration (simple heritance)
+[DONE]QT ui files code integration (multiple heritance)
+[DONE]Manipulating Basic datas with QT types
+Manipulating Advanced datas with QT types, interfacing with SDL
 Displaying images in QT
 Interfacing QT and VTK
+

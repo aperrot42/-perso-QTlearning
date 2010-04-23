@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="address" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; all" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="address">
+         <Option output="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/address" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/Library/Frameworks/QtCore.framework" />
+            <Add directory="/Library/Frameworks/QtGui.framework/Headers" />
+            <Add directory="/Library/Frameworks/QtCore.framework/Headers" />
+            <Add directory="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; address" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="address/fast">
+         <Option output="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/address" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/Library/Frameworks/QtCore.framework" />
+            <Add directory="/Library/Frameworks/QtGui.framework/Headers" />
+            <Add directory="/Library/Frameworks/QtCore.framework/Headers" />
+            <Add directory="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; address/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+            <DistClean command="/usr/bin/make -f &quot;/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/Makefile&quot; clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/AddressBook.cxx">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/main.cxx">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/moc_AddressBook.cxx">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/AddressBook.h">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/AddressBook.ui">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/moc_AddressBook.cxx.rule">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/qtcreator-build/ui_AddressBook.h">
+      </Unit>
+      <Unit filename="/Users/antonin/CVSROOT/QtTuto/address/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
