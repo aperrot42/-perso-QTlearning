@@ -1,1 +1,0 @@
-/Users/antonin/CVSROOT/QtTuto/widgets/qtcreator-build/CMakeFiles/widget.dir

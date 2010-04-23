@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-6a9510f3528a4532abf5aea929cdf1a7 moc_AddressBook.cxx
-9cc1479c6e0fa285bf3109aa342f9d46 ui_AddressBook.h

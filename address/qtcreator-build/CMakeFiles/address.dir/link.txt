@@ -1,1 +1,0 @@
-/usr/bin/c++    -Wl,-search_paths_first -headerpad_max_install_names  CMakeFiles/address.dir/main.cxx.o CMakeFiles/address.dir/AddressBook.cxx.o CMakeFiles/address.dir/moc_AddressBook.cxx.o  -o address  -framework QtGui -framework QtCore 
