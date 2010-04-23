@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-search_paths_first -headerpad_max_install_names  CMakeFiles/widget.dir/main.cpp.o  -o widget  -framework Qt3Support -framework QtGui -framework QtXml -framework QtSql -framework QtNetwork -framework QtCore 
