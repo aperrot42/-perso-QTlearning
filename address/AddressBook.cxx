@@ -1,6 +1,7 @@
-#include "addressbook.h"
 #include <Qtgui>
 #include <QMap>
+#include "addressbook.h"
+
 
 AddressBook::AddressBook(QWidget *parent) : QWidget(parent)
 {
@@ -119,10 +120,17 @@ void AddressBook::on_nameSearch_textChanged()
 
   void AddressBook::displaySearchedContact(QString name)
   {
-    if (bookMap.contains(name))
-    addressText->setText (bookMap.find(name).value());
-    nameLine->setText (name);
-return;
+    if (bookMap.contains(name))// if we found the contact
+    {// we display his infos
+      addressText->setText (bookMap.find(name).value());
+      nameLine->setText (name);
+    }
+    return;
   }
+
+
+image.load("./surge.jpg");
+ui.label->setAlignment(Qt::AlignCenter);
+ui.label->setPixmap(QPixmap::fromImage(image));
 
 

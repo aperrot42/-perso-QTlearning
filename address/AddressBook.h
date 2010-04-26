@@ -32,7 +32,7 @@ private:
 
   // private variables :
   //a bookmap to store informations (name, address)
-  QMap<QString, QString> bookMap;
+  Qmap <QString, CContact> bookMap;
   // the last viewed contact
   QString lastViewedName;
 

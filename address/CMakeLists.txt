@@ -9,6 +9,7 @@
   SET( ADDRESS_SRCS
        main.cxx
        AddressBook.cxx
+       CContact.cxx
 #       ...
 #       src/fileN.cpp
   )
@@ -16,6 +17,7 @@
   # another list, this time it includes all header files that should be treated with moc
   SET( ADDRESS_MOC_HDRS
        AddressBook.h
+       CContact.h
 #       src/header2.h
 #       src/headerM.h
   )
